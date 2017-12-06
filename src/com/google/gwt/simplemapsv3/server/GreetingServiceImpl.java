@@ -1,5 +1,5 @@
 package com.google.gwt.simplemapsv3.server;
-//Testing123
+//Testing123 config
 import com.google.gwt.simplemapsv3.client.GreetingService;
 import com.google.gwt.simplemapsv3.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
